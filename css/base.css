@@ -1,0 +1,30 @@
+@charset "utf-8";
+@font-face{
+  font-family:''
+}
+
+:root{
+  /* 루트 컬러 */
+  --color_main: #a50034;
+  --color_sub1: #f0ece4;
+  --color_sub2: #ffffff;
+  --color_sub3: #333333;
+  --color_sub4: #797979;
+
+  /* 루트 폰트 */
+
+  /* 루트 사이즈 */
+  /* PC */
+  --sizeFont_PC_h2: 80px;
+  --sizeFont_PC_h3: 60px;
+  --sizeFont_PC_h4: 50px;
+  --sizeFont_PC_h5: 32px;
+  --sizeFont_PC_pLarge24: 22px;
+  --sizeFont_PC_pMedium18: 16px;
+  --sizeFont_PC_pSmall16: 14px;
+  --sizeFont_PC_footer13: 13px;
+}
+
+html{
+  font-size: 10px;
+}
